@@ -22,8 +22,8 @@
 
 ---
 
-[ ] make a premium version available such that it can download resume in pdf format
-[ ] protected routing
-[ ] redux implementation
-[ ] user specific
-[ ] making it a full stack web app!
+- [ ] make a premium version available such that it can download resume in pdf format
+- [ ] protected routing
+- [ ] redux implementation
+- [ ] user specific
+- [ ] making it a full stack web app!
