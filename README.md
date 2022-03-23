@@ -6,17 +6,17 @@
 
 ---
 
-[x] Context API
-[x] useState
-[x] useEffect
-[x] createRef
+- [x] Context API
+- [x] useState
+- [x] useEffect
+- [x] createRef
 
 - This app is made just to learn context api
 
 - Major problems solved using context api
 
-[x] state and prop drilling in the components
-[x] easy to access in the template section to design the template
+- [x] state and prop drilling in the components
+- [x] easy to access in the template section to design the template
 
 - Future Updates to make
 
